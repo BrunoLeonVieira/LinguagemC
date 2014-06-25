@@ -1,0 +1,4 @@
+Este pequeno programa em c foi desenvolvido no 4º semestre do curso de 
+ciencias da computação com o objetivo de obter conceito parcial para aprovação 
+da diciplina de estrutura de dados.
+
